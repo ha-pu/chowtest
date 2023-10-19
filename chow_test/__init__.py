@@ -1,4 +1,4 @@
-from scikit-learn.linear_model import LinearRegression as Lr
+from sklearn.linear_model import LinearRegression as Lr
 from scipy.stats import f
 import pandas as pd
 
